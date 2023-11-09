@@ -1,0 +1,31 @@
+{
+    "landing-page": [
+        {
+            "content": {
+             "title": "AQILA RIZA DZAHABI",   
+             "role": "FRONT END DEVELOPER",
+             "quotes": [
+                "Code is a journey, not a destination. Enjoy the process of creation and discovery.",
+                "In the source code of life, every decision is a commit that shapes our journey.",
+                "Every day is a new branch in the repository of life, make meaningful commits."
+             ]
+            }
+        }
+    ],
+    "project": [
+        {
+            "id": 1,
+            "title": "Luments Play",
+            "preview": [
+                "https://i.postimg.cc/8cTmW0Xq/preview-luments-play.jpg",
+                "https://i.postimg.cc/Y9ykJ5KH/preview-luments-play-1.jpg",
+                "https://i.postimg.cc/8PTjQrYk/preview-luments-play-2.jpg"
+            ],
+            "desc": "This is a website that contains a movie list utilizing the TMDB API. The purpose of this website is to learn how to consume an API with Axios.",
+            "techStack": "React JS, Tailwind CSS",
+            "year": "2023",
+            "github": "https://github.com/Dzahabi84/luments-play",
+            "directLink": "https://lumentsplay.vercel.app/"
+        }
+    ]
+}

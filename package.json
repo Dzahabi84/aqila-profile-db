@@ -1,0 +1,17 @@
+{
+  "name": "aqila-profile-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server": "json-server --watch db.json"
+
+  },
+  "keywords": [],
+  "author": "change npm confign set init-author-name",
+  "license": "change npm set init-license",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
