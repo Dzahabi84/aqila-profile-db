@@ -63,5 +63,15 @@
             "title": "Redux",
             "poster": "https://i.postimg.cc/GhNx6ZZQ/redux.png"
         }
+    ],
+    "about": [
+        {
+            "img": "https://i.postimg.cc/Bn17pdqr/aqila.png",
+            "ig": "https://www.instagram.com/aqlaar/",
+            "linkedin": "https://www.linkedin.com/in/aqila-riza-dzahabi-1924a7230/",
+            "github": "https://github.com/Dzahabi84",
+            "email": "dzahabi2007@gmail.com",
+            "desc": "Hello there! I'm Aqila Riza Dzahabi, a 15 yo student with a passion for Software Developer. Born and raised in Indonesian, I've always been fascinated by code, and that curiosity has guided my journey so far."
+        }
     ]
 }
