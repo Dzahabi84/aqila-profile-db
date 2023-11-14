@@ -2,7 +2,6 @@
     "landing-page": [
         {
             "content": {
-             "title": "AQILA RIZA DZAHABI",   
              "role": "FRONT END DEVELOPER",
              "quotes": [
                 "Code is a journey, not a destination. Enjoy the process of creation and discovery.",
@@ -26,6 +25,43 @@
             "year": "2023",
             "github": "https://github.com/Dzahabi84/luments-play",
             "directLink": "https://lumentsplay.vercel.app/"
+        }
+    ],
+    "skill": [
+        {   
+            "id": 1,
+            "title": "HTML",
+            "poster": "https://i.postimg.cc/65Thj91q/html.png"
+        },
+        {   
+            "id": 2,
+            "title": "CSS",
+            "poster": "https://i.postimg.cc/wM4QqP39/css.png"
+        },
+        {   
+            "id": 3,
+            "title": "Javascript",
+            "poster": "https://i.postimg.cc/wvVkP3py/javascript.png"
+        },
+        {   
+            "id": 4,
+            "title": "React JS",
+            "poster": "https://i.postimg.cc/T2t9Jy0B/react.png"
+        },
+        {   
+            "id": 5,
+            "title": "Tailwind CSS",
+            "poster": "https://i.postimg.cc/j2ShrKx8/tailwind.png"
+        },
+        {   
+            "id": 6,
+            "title": "Git/GitHub",
+            "poster": "https://i.postimg.cc/g2ZHpgpP/git.png"
+        },
+        {   
+            "id": 7,
+            "title": "Redux",
+            "poster": "https://i.postimg.cc/GhNx6ZZQ/redux.png"
         }
     ]
 }
