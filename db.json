@@ -16,9 +16,9 @@
             "id": 1,
             "title": "Luments Play",
             "preview": [
-                "https://ibb.co/8Dz98q0",
-                "https://ibb.co/0sVW3jd",
-                "https://ibb.co/KXJ595n"
+                "https://i.ibb.co/ynhqstX/preview-luments-play-2.jpg",
+                "https://i.ibb.co/g4FXCMB/preview-luments-play-1.jpg",
+                "https://i.ibb.co/6mky4yQ/preview-luments-play.jpg"
             ],
             "desc": "This is a website that contains a movie list utilizing the TMDB API. The purpose of this website is to learn how to consume an API with Axios.",
             "techStack": "React JS, Tailwind CSS",
@@ -31,42 +31,42 @@
         {   
             "id": 1,
             "title": "HTML",
-            "poster": "https://ibb.co/bg89Y5M"
+            "poster": "https://i.ibb.co/tMWrnpT/html.png"
         },
         {   
             "id": 2,
             "title": "CSS",
-            "poster": "https://ibb.co/WFBg7fg"
+            "poster": "https://i.ibb.co/Y8fpJhp/css.png"
         },
         {   
             "id": 3,
             "title": "Javascript",
-            "poster": "https://ibb.co/zZG8q2P"
+            "poster": "https://i.ibb.co/RczhR6Q/javascript.png"
         },
         {   
             "id": 4,
             "title": "React JS",
-            "poster": "https://ibb.co/sKPpvNX"
+            "poster": "https://i.ibb.co/tqhwMv1/react.png"
         },
         {   
             "id": 5,
             "title": "Tailwind CSS",
-            "poster": "https://ibb.co/RyZG2Jy"
+            "poster": "https://i.ibb.co/L5bDSs5/tailwind.png"
         },
         {   
             "id": 6,
             "title": "Git/GitHub",
-            "poster": "https://ibb.co/H7gN9Ck"
+            "poster": "https://i.ibb.co/8M8zQbS/git.png"
         },
         {   
             "id": 7,
             "title": "Redux",
-            "poster": "https://ibb.co/VS7MbW6"
+            "poster": "https://i.ibb.co/HzWGRDZ/redux.png"
         }
     ],
     "about": [
         {
-            "img": "https://ibb.co/gy3QHs9",
+            "img": "https://i.ibb.co/gy3QHs9/aqila.png",
             "ig": "https://www.instagram.com/aqlaar/",
             "linkedin": "https://www.linkedin.com/in/aqila-riza-dzahabi-1924a7230/",
             "github": "https://github.com/Dzahabi84",
