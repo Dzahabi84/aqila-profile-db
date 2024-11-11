@@ -14,16 +14,16 @@
     "project": [
         {
             "id": 1,
-            "title": "Luments Play",
+            "title": "PT. Inti Geotek Pratama (Company Profile)",
             "preview": [
-                "https://iili.io/2TkUZDG.md.jpg",
-                "https://iili.io/2Tk8TRs.md.jpg"
+                "https://i.pinimg.com/736x/02/e1/63/02e163c18b33e28bd946d82bd0d376cf.jpg",
+                "https://i.pinimg.com/736x/68/15/32/68153213f9596255f5390a05f66712f7.jpg"
             ],
-            "desc": "This is a website that contains a movie list utilizing the TMDB API. The purpose of this website is to learn how to consume an API with Axios.",
-            "techStack": "React JS, Tailwind CSS",
-            "year": "2023",
-            "github": "https://github.com/Dzahabi84/luments-play",
-            "directLink": "https://lumentsplay.vercel.app/"
+            "desc": "Company profile site of PT. Inti Geotek Pratama",
+            "techStack": "Next JS, Tailwind CSS",
+            "year": "2024",
+            "github": "-",
+            "directLink": "https://intigeotekpratama.com/"
         },
         {
             "id": 2,
@@ -37,6 +37,19 @@
             "year": "2024",
             "github": "-",
             "directLink": "https://jenius-cn.vercel.app"
+        },
+        {
+            "id": 3,
+            "title": "Luments Play",
+            "preview": [
+                "https://i.pinimg.com/736x/a1/ab/46/a1ab46b8592fa89546ab86057ba5ef0e.jpg",
+                "https://i.pinimg.com/736x/22/36/81/2236813e3dcbcaa4f4b8c8f0ffb0e631.jpg"
+            ],
+            "desc": "This is a website that contains a movie list utilizing the TMDB API. The purpose of this website is to learn how to consume an API with Axios.",
+            "techStack": "React JS, Tailwind CSS",
+            "year": "2023",
+            "github": "https://github.com/Dzahabi84/luments-play",
+            "directLink": "https://lumentsplay.vercel.app/"
         }
     ],
     "skill": [
