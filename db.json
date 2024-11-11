@@ -51,6 +51,16 @@
             "id": 5,
             "title": "Redux",
             "poster": "https://iili.io/2TeV79I.png"
+        },
+        {   
+            "id": 6,
+            "title": "Next JS",
+            "poster": "https://iili.io/2Tvoqfs.md.jpg"
+        },
+        {   
+            "id": 7,
+            "title": "Typescript",
+            "poster": "https://iili.io/2Tv7eYF.md.png"
         }
     ],
     "about": [
