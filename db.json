@@ -24,6 +24,19 @@
             "year": "2023",
             "github": "https://github.com/Dzahabi84/luments-play",
             "directLink": "https://lumentsplay.vercel.app/"
+        },
+        {
+            "id": 2,
+            "title": "Jendela Informasi SMA Citra Nusa (Jenius)",
+            "preview": [
+                "https://i.pinimg.com/736x/70/05/7f/70057ff235158b2c77b8d81d47eed40e.jpg",
+                "https://i.pinimg.com/736x/50/d1/88/50d188a19139bb5356751cde9699a01a.jpg"
+            ],
+            "desc": "JENIUS (JENdela Informasi cinUS) is a digital information platform designed to inform readers about updates and information provided by the students of SMA Citra Nusa.",
+            "techStack": "Next JS, Tailwind CSS, TypeScript, Redux Toolkit",
+            "year": "2024",
+            "github": "-",
+            "directLink": "https://jenius-cn.vercel.app"
         }
     ],
     "skill": [
