@@ -4,7 +4,7 @@
             "content": {
              "role": "FRONT END DEVELOPER",
              "quotes": [
-                "Code is a journey, not a destination. Enjoy the process of creation and discovery.",
+                "Every day is a new branch in the repository of life, make meaningful commits",
                 "In the source code of life, every decision is a commit that shapes our journey.",
                 "Every day is a new branch in the repository of life, make meaningful commits."
              ]
@@ -50,6 +50,18 @@
             "year": "2023",
             "github": "https://github.com/Dzahabi84/luments-play",
             "directLink": "https://lumentsplay.vercel.app/"
+        },
+        {
+            "id": 4,
+            "title": "Hexalab Site Profile",
+            "preview": [
+                "https://i.pinimg.com/736x/2c/85/c4/2c85c454e6b3032faab36eeaa22f07e9.jpg",
+            ],
+            "desc": "Company Profile Hexalab Technologies",
+            "techStack": "Next JS, Tailwind CSS",
+            "year": "2025",
+            "github": "-",
+            "directLink": "https://hexalab.site"
         }
     ],
     "skill": [
@@ -96,7 +108,7 @@
             "linkedin": "https://www.linkedin.com/in/aqila-riza-dzahabi-1924a7230/",
             "github": "https://github.com/Dzahabi84",
             "email": "dzahabi2007@gmail.com",
-            "desc": "Hello there! I'm Aqila Riza Dzahabi, a 15 yo student with a passion for Software Developer. Born and raised in Indonesian, I've always been fascinated by code, and that curiosity has guided my journey so far."
+            "desc": "Hello there! I'm Aqila Riza Dzahabi, a 17 yo student with a passion for Software Developer. Born and raised in Indonesian, I've always been fascinated by code, and that curiosity has guided my journey so far."
         }
     ]
 }
